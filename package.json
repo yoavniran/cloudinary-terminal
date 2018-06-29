@@ -1,0 +1,21 @@
+{
+  "name": "cld-term",
+  "version": "1.0.0",
+  "description": "cloudinary images in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "yoav niran",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.11.0",
+    "colors": "^1.3.0",
+    "command-line-args": "^5.0.2",
+    "fs-extra": "^6.0.1",
+    "got": "^8.3.1",
+    "image-to-ascii": "^3.0.11",
+    "prompt": "^1.0.0",
+    "terminal-image": "^0.1.1"
+  }
+}
