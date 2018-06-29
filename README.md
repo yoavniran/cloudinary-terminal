@@ -38,7 +38,7 @@ Or
 
 - _yarn start -p "sample" -t "w_200,h_200"_
 
-[![image](http://.png)](#)
+[![image](https://raw.githubusercontent.com/yoavniran/cloudinary-terminal/master/sample1.png)](#)
 
 #### Show image with named transformation
 
