@@ -5,6 +5,7 @@ __View Images from cloudinary inside your terminal__
 
 > works best with iTerm because it has support for full def imagess
 
+[![demo](https://res.cloudinary.com/yoav-cloud/video/upload/q_auto,dpr_2,w_500/v1530342981/cld-term-demo_td5pgr.jpg)](https://res.cloudinary.com/yoav-cloud/video/upload/q_auto/v1530342981/cld-term-demo_td5pgr.mp4)
 
 ## How to use
 
